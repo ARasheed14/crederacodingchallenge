@@ -46,6 +46,7 @@
   top:12%; 
   left:50%; 
   transform:translate(-50%, -50%); 
+  color: #FFFFFF
 }
 
 .location-row {
