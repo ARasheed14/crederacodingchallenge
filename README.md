@@ -24,7 +24,7 @@ Scope:  
 
 ## WeatherAPI
 
-Usually our data comes from making API calls to the server. In this exercise Mock data is provided by datastore.js. Instead of performing a network request to retrieve data we get our data from the mock datastore. I would create services to handle all our data calls but since there are no network calls I didn't create any services.
+
 
 ## User Interface
 
