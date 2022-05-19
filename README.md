@@ -13,7 +13,7 @@ Scope:  
 
 ## How to Install the project
 
-- run git clone 
+- run git clone https://github.com/ARasheed14/crederacodingchallenge.git
 - cd into project
 - run npm install
 - run npm run start
