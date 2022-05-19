@@ -24,7 +24,7 @@ Scope:  
 
 ## WeatherAPI
 
-
+Accu Weather API was used to retrieve all weather data. https://developer.accuweather.com/apis 
 
 ## User Interface
 
