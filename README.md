@@ -28,16 +28,6 @@ Usually our data comes from making API calls to the server. In this exercise Moc
 
 ## User Interface
 
-To handle small UI styles I chose to use Matarial UI framework. Since the exercise is not UI focused I did not spend to much time making it perfect. I spent the majority of the time working on the filters. The operator filter to be exact. As the application scales the UI will be broken up into multiple components and we would pass the data to the components. This also allows us to remove a lot of the clutter out of the App.tsx file. Ex. Filter component can be a stand alone component. Search feature can be a stand alone component.
-
-## State Management
-
-I chose to use localstate due to the size of the application but as the application scales we would use a state management framework like Redux or any others.
-
-## Typescript
-
-Due to time I didn't get a chance to implement any type Models. Since we know what our data looks like for this exercise it is fine but we would usually implement Models to check our Data types.
-
 ## Available Scripts
 
 
